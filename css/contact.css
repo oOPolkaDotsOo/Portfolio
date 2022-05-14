@@ -1,0 +1,22 @@
+/* CSS files --> contact.html */
+/* (1) Tag Selector */
+body{
+    background-color: #7d9db5;
+}
+table{
+    width: 100%;
+    text-align: center;  
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #346d8f;
+}
+
+/* div */
+a:link{
+    color:#182343;
+}
+a:visited{
+    color: #4964b0;
+}
